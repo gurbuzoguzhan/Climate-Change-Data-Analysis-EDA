@@ -1,5 +1,5 @@
 ---
-title: "Climate Change Data Analysis"
+title: "Climate Change Exploratory Data Analysis"
 output: html_document
 date: "2023-03-24"
 ---
